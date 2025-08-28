@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Tableau and React**
 
-- 👨‍💻 All of my projects are available at [https://effervescent-clafoutis-1fdffb.netlify.app/](https://effervescent-clafoutis-1fdffb.netlify.app/)
+- 👨‍💻 This my Portfolio [https://effervescent-clafoutis-1fdffb.netlify.app/](https://effervescent-clafoutis-1fdffb.netlify.app/)
 
 - 📫 How to reach me **rishiyadav11213@gmail.com**
 
