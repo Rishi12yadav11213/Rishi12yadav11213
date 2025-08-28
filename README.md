@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo]()
+![logo](https://github.com/Rishi12yadav11213/Rishi12yadav11213/blob/main/Gold%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rishi yadav</h1>
 <h3 align="center">A passionate Data Analyst and Fronted developer from India</h3>
 <img align="right" alt="coding" width = "400" src =https://th.bing.com/th/id/R.d486deeb54e0b0186eeda7fa5b1b851b?rik=uF53k%2bXjq%2fa%2fpw&riu=http%3a%2f%2fmehtaabsingh.com%2fimages%2fhow-does-code-integrity-work.gif&ehk=0qhWG%2bxhkywsnEGhnFxThB8RLaa5s5vzC9%2b9pXf2moM%3d&risl=&pid=ImgRaw&r=0>
